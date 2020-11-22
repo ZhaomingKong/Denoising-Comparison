@@ -10,3 +10,5 @@ Selected videos used for human ratings could be found at Data/Color_Video
 If you have any question feel free to contact me via: kong.zm@mail.scut.edu.cn 
 
 Updates of our datasets are available at: https://github.com/ZhaomingKong/Real_Noisy_Clean_Color_IMAGES
+
+If you find our datasets and codes useful, please cite our paper.
