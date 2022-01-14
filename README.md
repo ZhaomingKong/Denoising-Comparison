@@ -1,14 +1,3 @@
 # Denoising_Comparison
 
-We perform comprehensive experiments and compare more than 60 denoising methods on both synthetic and realistic datasets.
-
-All the datasets and Codes are available at (Google Drive): https://drive.google.com/drive/folders/1g_jf35YQ6xuC91KJo-eSAIVk6aC6PQMJ?usp=sharing \
-All the datasets and Codes are available at (BaiduYun Disk) (https://pan.baidu.com/s/1kYOeYRiVVJkq7h9iod6tVw Password：0cuw)
-
-Selected videos used for human ratings could be found at Data/Color_Video 
-
-If you have any question feel free to contact me via: kong.zm@mail.scut.edu.cn 
-
-Updates of our datasets are available at: https://github.com/ZhaomingKong/Real_Noisy_Clean_Color_IMAGES
-
-If you find our datasets and codes useful, please cite our paper.
+We perform comprehensive experiments and compare more than 60 denoising methods on both synthetic and realistic datasets. To gain access to the dataset and the code, please send me an email (kong.zm@mail.scut.edu.cn) with information including name, position and usage. 
