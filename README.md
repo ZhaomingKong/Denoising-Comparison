@@ -14,6 +14,8 @@ For traditional denoisers, learning and denoising are usually accomplished only 
 
 <img src="Figs/Traditional_Flowchart.JPG" width="888px" height="188px"/>
 
+Since the birth of BM3D, there is no shortage of extensions originating from different disciplines.
+
 * Image denoising (sRGB space).
 <img src="Figs/DND_SIDD_comparison.png" width="1180px" height="236px"/>
 
