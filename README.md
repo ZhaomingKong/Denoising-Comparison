@@ -16,4 +16,4 @@ and will be continuously updated. To gain access to the dataset and the code, pl
 <img src="Figs/MSI.png" width="1180px" height="306px"/>
 
 * 3D MRI denoising.
-<img src="Figs/MRI.png" width="1180px" height="216px"/>
+<img src="Figs/MRI.png" width="1180px" height="186px"/>
