@@ -12,7 +12,7 @@ The interest in the realm of denoising grows consistently with a large quantity 
 ### Traditional denoisers
 For traditional denoisers, learning and denoising are usually accomplished only with the noisy image by leveraging the NLSS property. To achieve this goal, the most popular and successful framework is attributed to BM3D, which mainly follows three consecutive stages: grouping, collaborative filtering and aggregation. The flowchart of this effective three-stage paradigm is illustrated in the following Figure.
 
-<img src="Figs/Traditional_Flowchart.png" width="888px" height="388px"/>
+<img src="Figs/Traditional_Flowchart.png" width="888px" height="288px"/>
 
 Since the birth of BM3D, there is no shortage of extensions originating from different disciplines. Some representative traditional denoisers are summarized in the following Table.
 
