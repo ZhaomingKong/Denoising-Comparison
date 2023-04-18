@@ -1,4 +1,5 @@
 # A Comparison of Image Denoising Methods
+[Zhaoming Kong](https://scholar.google.com/citations?user=TN1y_msAAAAJ&hl=zh-CN)
 
 ## Overview
 In this project, we intend to collect and compare various denoising methods to investigate their effectiveness, efficiency, applicability
