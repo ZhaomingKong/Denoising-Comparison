@@ -42,13 +42,13 @@ Since the birth of BM3D, there is no shortage of extensions originating from dif
 ## Experiments
 
 * Image denoising (sRGB space).
-<img src="Figs/DND_SIDD_comparison.png" width="1180px" height="196px"/>
+<img src="Figs/DND_SIDD_comparison.png" width="1180px" height="206px"/>
 
 * Video denoising (sRGB space).
-<img src="Figs/Set8_CRVD.png" width="1180px" height="196px"/>
+<img src="Figs/Set8_CRVD.png" width="1180px" height="206px"/>
 
 * MSI/HSI denoising.
-<img src="Figs/MSI.png" width="1180px" height="286px"/>
+<img src="Figs/MSI.png" width="1180px" height="296px"/>
 
 * 3D MRI denoising.
-<img src="Figs/MRI.png" width="1180px" height="136px"/>
+<img src="Figs/MRI.png" width="1180px" height="149px"/>
