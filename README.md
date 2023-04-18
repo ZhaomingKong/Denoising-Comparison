@@ -11,3 +11,5 @@ and will be continuously updated. To gain access to the dataset and the code, pl
 
 * Video denoising (sRGB space).
 <img src="Figs/Set8_CRVD.png" width="1180px" height="236px"/>
+
+* MSI/HSI denoising.
