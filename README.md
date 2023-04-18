@@ -13,4 +13,4 @@ and will be continuously updated. To gain access to the dataset and the code, pl
 <img src="Figs/Set8_CRVD.png" width="1180px" height="236px"/>
 
 * MSI/HSI denoising.
-<img src="Figs/MSI.png" width="1180px" height="286px"/>
+<img src="Figs/MSI.png" width="1180px" height="299px"/>
