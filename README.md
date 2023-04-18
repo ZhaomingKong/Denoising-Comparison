@@ -16,6 +16,13 @@ For traditional denoisers, learning and denoising are usually accomplished only 
 
 Since the birth of BM3D, there is no shortage of extensions originating from different disciplines. Some representative traditional denoisers are summarized in the following Table.
 
+<details>
+<summary> Representative traditional denoisers (click here)</summary>
+<p align="center">
+  <img width="500" src="Figs/Table1.png">
+</p>
+</details>
+
 * Image denoising (sRGB space).
 <img src="Figs/DND_SIDD_comparison.png" width="1180px" height="236px"/>
 
