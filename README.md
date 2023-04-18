@@ -6,4 +6,4 @@ In this project, we intend to collect and compare various denoising methods to i
 and generalization ability with both synthetic and real-world experiments. Datasets, code and results are made publicly available
 and will be continuously updated. To gain access to the dataset and the code, please send me an email (kong.zm@mail.scut.edu.cn) with information including name, position and usage. 
 
-[<img src="Figs/DND_SIDD_comparison.png" width="10800px" height="480px"/>](https://imgsli.com/OTM3OTA)
+[<img src="Figs/DND_SIDD_comparison.png" width="1080px" height="480px"/>](https://imgsli.com/OTM3OTA)
