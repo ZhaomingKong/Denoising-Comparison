@@ -7,6 +7,8 @@ and generalization ability with both synthetic and real-world experiments. Datas
 and will be continuously updated. To gain access to the dataset and the code, please send me an email (kong.zm@mail.scut.edu.cn) with information including name, position and usage. 
 
 ## Compared methods
+The interest in the realm of denoising grows consistently with a large quantity of approaches, which may be roughly divided into two categories, namely traditional denoisers and DNN methods, depending on whether neural network architectures are utilized.
+
 * Image denoising (sRGB space).
 <img src="Figs/DND_SIDD_comparison.png" width="1180px" height="236px"/>
 
