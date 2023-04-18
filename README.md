@@ -19,7 +19,7 @@ Since the birth of BM3D, there is no shortage of extensions originating from dif
 <details>
 <summary> Representative traditional denoisers (click here)</summary>
 <p align="center">
-  <img width="600" src="Figs/Table1.png">
+  <img width="600", height="600" src="Figs/Table1.png">
 </p>
 </details>
 
