@@ -7,6 +7,7 @@ and generalization ability with both synthetic and real-world experiments. Datas
 and will be continuously updated. To gain access to the dataset and the code, please send me an email (kong.zm@mail.scut.edu.cn) with information including name, position and usage. 
 
 - Image denoising (sRGB space).
-<img src="Figs/DND_SIDD_comparison.png" width="1180px" height="236px"/>
 - Video denoising (sRGB space).
+<img src="Figs/DND_SIDD_comparison.png" width="1180px" height="236px"/>
+
 <img src="Figs/Set8_CRVD.png" width="1180px" height="236px"/>
