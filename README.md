@@ -38,6 +38,8 @@ Since the birth of BM3D, there is no shortage of extensions originating from dif
 </p>
 </details>
 
+
+
 * Image denoising (sRGB space).
 <img src="Figs/DND_SIDD_comparison.png" width="1180px" height="236px"/>
 
