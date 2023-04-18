@@ -14,7 +14,6 @@ For traditional denoisers, learning and denoising are usually accomplished only 
 
 <img src="Figs/Traditional_Flowchart.JPG" width="1180px" height="236px"/>
 
-
 * Image denoising (sRGB space).
 <img src="Figs/DND_SIDD_comparison.png" width="1180px" height="236px"/>
 
