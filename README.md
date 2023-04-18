@@ -25,9 +25,9 @@ Since the birth of BM3D, there is no shortage of extensions originating from dif
 
 
 ### Deep neural network (DNN) methods
-For traditional denoisers, learning and denoising are usually accomplished only with the noisy image by leveraging the NLSS property. To achieve this goal, the most popular and successful framework is attributed to BM3D, which mainly follows three consecutive stages: grouping, collaborative filtering and aggregation. The flowchart of this effective three-stage paradigm is illustrated in the following Figure.
+The most recent development of image processing stems largely from the applications of deep learning techniques, which demonstrate outstanding performance in a wide variety of tasks. Image denoising is not an exception. From the early plain networks to recently proposed generative and diffusion models, numerous net- work architectures and frameworks have been developed with different training strategies, including supervised, self-supervised and unsupervised learning. The following figure illustrates a simple DNN denoising framework with three convolutional layers.
 
-<img src="Figs/Traditional_Flowchart.JPG" width="888px" height="188px"/>
+<img src="Figs/Fig3_PlainDNN.png" width="888px" height="188px"/>
 
 Since the birth of BM3D, there is no shortage of extensions originating from different disciplines. Some representative traditional denoisers are summarized in the following Table.
 
