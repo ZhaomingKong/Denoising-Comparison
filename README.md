@@ -1,7 +1,7 @@
 # A Comparison of Image Denoising Methods
 Zhaoming Kong (kong.zm@mail.scut.edu.cn), Fangxi Deng, Haomin Zhuang, Xiaowei Yang, Jun Yu, Lifang He
 
-* [Manuscript](https://github.com/ZhaomingKong/Denoising-Comparison/blob/620e16f4c753a3e3e5df41228bc7702ca177ee70/A%20Comparison%20of%20Image%20Denoising%20Methods.pdf)
+* [Manuscript](http://arxiv.org/abs/2304.08990)
 * [Supplementary Material](https://github.com/ZhaomingKong/Denoising-Comparison/blob/938179b44afbd2fd8506ef3b5274f31606e3cc44/Supplementary%20Material.pdf)
 
 ## Overview
