@@ -50,33 +50,27 @@ Since the birth of BM3D, there is no shortage of extensions originating from dif
 ******************************** Update 1.0 ***************************************  
 Images using new camera brands (Canon 100D and Sony A6500) are uploaded 7/18/2018 Thank you Zhuoyun Zheng and Ayi for sharing your cameras.
 
-******************************** Update 2.0 *************************************** 
+******************************** Update 2.0 ***************************************  
 Photos taken by OPPO R11s are uploaded 1/24/2019. Thank you Haoxue Yang for sharing your camera.
-******************************** Update 2.0 *************************************** 
 
-******************************** Update 3.0 *************************************** 
+******************************** Update 3.0 ***************************************  
 Photos taken by XIAOMI8 (DXOMARK 103) are uploaded 2/5/2019. Happy Chinese New Year.
-******************************** Update 3.0 ***************************************
 
 ******************************** Update 4.0 *************************************** 
 The dataset is uploaded to googledrive. Feel free to contact me for share link.
 ******************************** Update 4.0 *************************************** 
 
-******************************** Update 5.0 *************************************** 
+******************************** Update 5.0 ***************************************  
 Photos taken by Fujifilm X100T are uploaded 6/28/2020. Keep healthy and stay at home.
-******************************** Update 5.0 *************************************** 
 
-******************************** Update 6.0 *************************************** 
+******************************** Update 6.0 ***************************************  
 Photos taken by NIKON D5300 are uploaded 11/08/2020. Keep healthy and stay at home. Thank you Shusen Jing for sharing your camera.
-******************************** Update 6.0 ***************************************
 
-******************************** Update 7.0 *************************************** 
+******************************** Update 7.0 ***************************************  
 Photos taken by HUAWEI Mate40Pro are uploaded 04/08/2022. The image quality is amazing.
-******************************** Update 7.0 ***************************************
 
-******************************** Update 8.0 *************************************** 
+******************************** Update 8.0 ***************************************  
 Photos taken by IPHONE13 are uploaded 05/08/2022. Lets go Warriors!
-******************************** Update 8.0 *************************************** 
 
 ## Experiments
 
