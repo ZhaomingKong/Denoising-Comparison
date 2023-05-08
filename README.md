@@ -46,8 +46,7 @@ Since the birth of BM3D, there is no shortage of extensions originating from dif
 </details>
 
 ## Datasets
-
-### The proposed IOCI and IOCV dataset
+In this paper, we introduce the real-world indoor-outdoor color image (IOCI) and video (IOCV) datasets for benchmarking. We use 13 different camera devices to capture images in both outdoor and indoor environments.
 
 
 
