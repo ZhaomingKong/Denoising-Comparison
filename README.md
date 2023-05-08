@@ -46,7 +46,7 @@ Since the birth of BM3D, there is no shortage of extensions originating from dif
 </details>
 
 ## Datasets
-In this paper, we introduce the real-world indoor-outdoor color image (IOCI) and video (IOCV) datasets for benchmarking. We use 13 different camera devices to capture images in both outdoor and indoor environments.
+In this paper, we introduce the real-world indoor-outdoor color image (IOCI) and video (IOCV) datasets for benchmarking. We use 13 different camera devices to capture images in both outdoor and indoor environments. Instead of using predefined camera settings such as ISO, shutter speed and aperture, we mostly resort to the cameras’ auto mode. In uncontrollable and certain dark environments, we use short exposures and increase ISO values to produce images with high noise values.
 
 
 
