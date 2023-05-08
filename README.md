@@ -58,7 +58,6 @@ Photos taken by XIAOMI8 (DXOMARK 103) are uploaded 2/5/2019. Happy Chinese New Y
 
 ******************************** Update 4.0 *************************************** 
 The dataset is uploaded to googledrive. Feel free to contact me for share link.
-******************************** Update 4.0 *************************************** 
 
 ******************************** Update 5.0 ***************************************  
 Photos taken by Fujifilm X100T are uploaded 6/28/2020. Keep healthy and stay at home.
