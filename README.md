@@ -24,7 +24,7 @@ For traditional denoisers, learning and denoising are usually accomplished only 
 Since the birth of BM3D, there is no shortage of extensions originating from different disciplines. Some representative traditional denoisers are summarized in the following Table.
 
 <details>
-<summary> Representative traditional denoisers (Updated: 2023/05/06)</summary>
+<summary> Representative traditional denoisers (click here)</summary>
 <p align="center">
   <img width="1180", height="808" src="Figs/Table1.png">
 </p>
@@ -39,7 +39,7 @@ The most recent development of image processing stems largely from the applicati
 Since the birth of BM3D, there is no shortage of extensions originating from different disciplines. Some representative traditional denoisers are summarized in the following Table.
 
 <details>
-<summary> Related DNN methods (Updated: 2023/05/06)</summary>
+<summary> Related DNN methods (click here)</summary>
 <p align="center">
   <img width="1280", height="808" src="Figs/Table2.png">
 </p>
