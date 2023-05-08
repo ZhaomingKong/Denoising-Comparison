@@ -60,16 +60,19 @@ Images captured by XIAOMI8 (DXOMARK 103) are uploaded 2/5/2019. Happy Chinese Ne
 The dataset is uploaded to googledrive. Feel free to contact me for share link.
 
 ******************************** Update 5.0 ***************************************  
-Images captured by Fujifilm X100T are uploaded 6/28/2020. Keep healthy and stay at home.
+Images captured by Fujifilm X100T are uploaded 6/28/2020.
 
 ******************************** Update 6.0 ***************************************  
-Images captured by NIKON D5300 are uploaded 11/08/2020. Keep healthy and stay at home. Appreciate Shusen Jing for sharing your camera.
+Images captured by NIKON D5300 are uploaded 11/08/2020. Appreciate Shusen Jing for sharing your camera.
 
 ******************************** Update 7.0 ***************************************  
-Images captured by HUAWEI Mate40Pro are uploaded 04/08/2022. The image quality is amazing.
+Images captured by HUAWEI Mate40Pro are uploaded 04/08/2022. 
 
 ******************************** Update 8.0 ***************************************  
-Images captured by IPHONE13 are uploaded 05/08/2022. Lets go Warriors!
+Images captured by IPHONE13 are uploaded 05/08/2022. 
+
+******************************** Update 9.0 ***************************************  
+Images captured by CANON 5DMark4 are uploaded 02/08/2023.
 
 
 ## Experiments
