@@ -1,4 +1,5 @@
-# A Comparison of Image Denoising Methods (last update: 2023/05/06)
+# A Comparison of Image Denoising Methods 
+(last update: 2023/05/06)
 Zhaoming Kong (kong.zm@mail.scut.edu.cn), Fangxi Deng, Haomin Zhuang, Jun Yu, Lifang He and Xiaowei Yang
 
 * [Manuscript](http://arxiv.org/abs/2304.08990)
