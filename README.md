@@ -47,7 +47,7 @@ Since the birth of BM3D, there is no shortage of extensions originating from dif
 
 ## Datasets
 
-******************************** Update 1.0 *************************************** \<br>
+******************************** Update 1.0 ***************************************  
 Images using new camera brands (Canon 100D and Sony A6500) are uploaded 7/18/2018 Thank you Zhuoyun Zheng and Ayi for sharing your cameras.
 
 ******************************** Update 2.0 *************************************** 
