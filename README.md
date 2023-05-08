@@ -56,7 +56,7 @@ Photos taken by OPPO R11s are uploaded 1/24/2019. Thank you Haoxue Yang for shar
 ******************************** Update 3.0 ***************************************  
 Photos taken by XIAOMI8 (DXOMARK 103) are uploaded 2/5/2019. Happy Chinese New Year.
 
-******************************** Update 4.0 *************************************** 
+******************************** Update 4.0 ***************************************  
 The dataset is uploaded to googledrive. Feel free to contact me for share link.
 
 ******************************** Update 5.0 ***************************************  
